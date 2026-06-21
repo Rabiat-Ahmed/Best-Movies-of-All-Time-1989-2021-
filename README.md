@@ -32,6 +32,18 @@ Up until 2020, there was a steady increase in average movie budget and average m
 
 There was a significant decrease in the number of movies, average budget and average gross in 2020.  The number of movies dropped from 20 to 11, the average budget dropped from $138,975,000 to $89,227,273 and the average gross dropped from $705,990,000 to $207,210,986. The differences are quite huge.
 
+**Age Ratings**
+<img width="1499" height="1199" alt="Age Ratings" src="https://github.com/user-attachments/assets/6f722070-7841-4cd9-a6d3-56545e5f3230" />
+General Audiences (G) age rating had the lowest number of movies but had the second highest average budget and second highest average gross. PG-13 had the highest number of movies, highest averarge budget and highest average gross. PG and R rated movies ranked second and third in number of movies, and third and fourth in both average budget and average gross.
+
+**Movie Release Seasons**
+<img width="1314" height="597" alt="movie release seasons" src="https://github.com/user-attachments/assets/124405a9-8af0-4293-b7a3-849dcf448f75" />
+Most of the movies were released mid-year and end-of-year.
+
+Explore the interactive dashboard that highlights the successful movies and unsuccessful movies. This can be filtered by release year.
+
+
+
 
 
 
