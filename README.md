@@ -40,7 +40,7 @@ General Audiences (G) age rating had the lowest number of movies but had the sec
 <img width="1314" height="597" alt="movie release seasons" src="https://github.com/user-attachments/assets/124405a9-8af0-4293-b7a3-849dcf448f75" />
 Most of the movies were released mid-year and end-of-year.
 
-Explore the interactive dashboard that highlights the successful movies and unsuccessful movies. This can be filtered by release year.
+Explore the [interactive dashboard] (https://public.tableau.com/views/BestMoviesofAllTime1989-2021/successfulunsuccessfuldashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) that highlights the successful movies and unsuccessful movies.
 
 
 
