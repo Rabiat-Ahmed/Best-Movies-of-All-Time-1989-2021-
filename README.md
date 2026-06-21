@@ -24,7 +24,7 @@ Avengers: Infinity War-2018, Avenger: Endgame-2019 and Star Wars: The Force Awak
 
 **Lowest Budget vs. Lowest Grossing**
 <img width="1499" height="1199" alt="Lowest Budget vs  Lowest Grossing" src="https://github.com/user-attachments/assets/622e46a5-fa57-4bff-bad7-a31910471f88" />
-The Crying Game-1992 and The Father-2020 appeared on both the bottom 10 lowest budget movies chart and bottom 10 lowest grossing movies chart. Three movies released in 2020 appeared on the bottom 10 lowest grossing movies chart.
+The Crying Game-1992 and The Father-2020 appeared on both the bottom 10 lowest budget movies chart and bottom 10 lowest grossing movies chart. Three other movies released in 2020 appeared on the bottom 10 lowest grossing movies chart.
 
 **Trends Over Time**
 <img width="1499" height="1199" alt="Trends Over Time" src="https://github.com/user-attachments/assets/081ccdbb-300d-4095-af6a-247eb0c72f5f" />
@@ -34,7 +34,7 @@ There was a significant decrease in the number of movies, average budget and ave
 
 **Age Ratings**
 <img width="1499" height="1199" alt="Age Ratings" src="https://github.com/user-attachments/assets/6f722070-7841-4cd9-a6d3-56545e5f3230" />
-General Audiences (G) age rating had the lowest number of movies but had the second highest average budget and second highest average gross. PG-13 had the highest number of movies, highest averarge budget and highest average gross. PG and R rated movies ranked second and third in number of movies, and third and fourth in both average budget and average gross.
+General rated movies had the lowest number of movies but had the second highest average budget and second highest average gross. PG-13 had the highest number of movies, highest averarge budget and highest average gross. PG and R rated movies ranked second and third in number of movies, and third and fourth in both average budget and average gross.
 
 **Movie Release Seasons**
 <img width="1314" height="597" alt="movie release seasons" src="https://github.com/user-attachments/assets/124405a9-8af0-4293-b7a3-849dcf448f75" />
